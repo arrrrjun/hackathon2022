@@ -4,10 +4,3 @@ Current lotteries require you to trust that whoever is running the lottery is go
 Blockchain lotteries can fix this by providing a platform that can’t be corrupted or hacked, where the numbers are chosen at random, and everyone can prove that they are chosen at random.
 This is easily the most important reason why lotteries would be drastically better on blockchains.
 An essential part of any lottery is the trust that each entrant has in their money being treated fairly.
-With all centralized applications, overhead is a nightmare. State lotteries currently have to pay:
-
-Staff to maintain the servers for the lotteries
-Staff to maintain the tickets and packaging
-Television draws, radio and online ads
-Staff to create new games
-As things stand, blockchain lotteries can’t solve all of this, but they can solve at least #1 and #4. Once the contracts are already made and proven to be secure, you never have to reinvent the wheel. You can just place a front-end on top of the same open-sourced lottery smart contract. The servers are now totally replaced with the blockchain that you’re running on.
